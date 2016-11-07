@@ -1,9 +1,9 @@
-var express = required(`express`);
-var morgan = required(`morgan`);
-var path = required(`path`);
+var express = required('express');
+var morgan = required('morgan');
+var path = required('path');
 
 var app = express();
-app.use(morgan(`combined`));
+app.use(morgan('combined'));
 
 app.get('/', function (req, res){
     res.sendFile(path.join(__dirname,'ui','index.html'));
