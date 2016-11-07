@@ -13,8 +13,8 @@ app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
 
-app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'));
+app.get('/ui/Picture2.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'Picture2.png'));
 });
 
 
