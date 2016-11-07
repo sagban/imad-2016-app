@@ -17,5 +17,5 @@ app.get(`/ui/madi.png`, function (req, res){
 
 var port = 800;
 app.listen(8080, function (){
-    console.log('IMAD course app listening on port ${port}!');
+    console.log(`IMAD course app listening on port ${port}!`);
 });
