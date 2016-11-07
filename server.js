@@ -17,6 +17,10 @@ app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'));
 });
 
+app.get('/ui/madi.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'));
+});
+
 
 var port = 8080; // Use 8080 for local development because you might already have apache running on 80
 app.listen(8080, function () {
