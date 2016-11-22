@@ -33,15 +33,16 @@ h1:hover {
     color:#0fc46f;
     
 }
+        
         div.img {
     margin: 5px;
-    border: 10px solid #ccc;
+    border: 2px solid #ccc;
     float: left;
     width: 180px;
 }
 
 div.img:hover {
-    border: 1px solid #777;
+    border: 1.5px solid #848383;
 }
 
 div.img img {
