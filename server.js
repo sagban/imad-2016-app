@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', '35965589-art-wallpaper-hd.jpg'));
+  res.sendFile(path.join(__dirname, 'ui', 'art.png'));
 });
 
 
