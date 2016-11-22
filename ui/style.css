@@ -26,10 +26,11 @@ body {
 
 
 h1:hover {
-    width: 200px;
-    height: 200px;
-    font-size: 400;
-    font-family: joker;
-    color:#0e7555;
+    width: 150px;
+    height: 150px;
+    font-size: 600%;
+    font-family: Sans-serif;
+    color:#0fc46f;
+    text-align: center
     
 }
