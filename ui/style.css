@@ -1,6 +1,6 @@
 body {
     font-family: FLATICON;
-    background-color: LightGREY;
+    background-color: 90d3f0;
     margin-left: 1px;
     margin-top: 1px;
     margin-right: 1px;
@@ -19,8 +19,8 @@ body {
 }
 
 .img-medium {
-    height: 204px;
-    width: 204px;
+    height: 720px;
+    width: 1200px;
 
 }
 
