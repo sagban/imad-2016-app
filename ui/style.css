@@ -23,9 +23,7 @@ body {
     width: 1280px;
 
 }
-h1 {
-    font-size: 200;
-}
+
 
 h1:hover {
     width: 300px;
