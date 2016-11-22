@@ -14,7 +14,9 @@ app.get('/sagban', function (req, res) {
 app.get('/uk', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'uk.html'));
 });
-
+app.get('/varsha', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'VARSHA.html'));
+});
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
