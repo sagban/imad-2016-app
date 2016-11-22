@@ -43,8 +43,8 @@ h1:hover {
 
 div.img:hover {
     border: 1.5px solid #848383;
-    width: 150px;
-    height: 150px;
+    width: 700px;
+    height: 500px;
 }
 
 div.img img {
