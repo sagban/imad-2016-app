@@ -1,6 +1,6 @@
 body {
     font-family: FLATICON;
-    background-color: #f3a25f;
+    background-image: url("https://raw.githubusercontent.com/sagban/imad-2016-app/master/BK.GIF");
     margin-left: 1px;
     margin-top: 1px;
     margin-right: 1px;
@@ -31,6 +31,5 @@ h1:hover {
     font-size: 600%;
     font-family: Sans-serif;
     color:#0fc46f;
-    text-align: center
     
 }
