@@ -9,7 +9,7 @@ body {
 .center {
     text-align: center;
     font-family: Charlatan DEMO;
-    color:#2cac8b;
+    color:#19A580;
      font-size: 300%;
 }
 .f1 {
@@ -17,6 +17,7 @@ body {
      margin-left: 180px;
       margin-right: 180px;
       font-size:150%;
+      padding: 10px;
 }
 
 .text-big {
