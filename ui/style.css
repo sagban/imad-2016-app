@@ -33,7 +33,9 @@ body {
     width: 1280px;
 
 }
-
+A{
+    text-decoration: none;
+}
 
 h1:hover {
     color:#0fc46f;
