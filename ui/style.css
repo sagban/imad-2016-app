@@ -10,12 +10,13 @@ body {
     text-align: center;
     font-family: Charlatan DEMO;
     color:#2cac8b;
+     font-size: 300%;
 }
 .f1 {
      text-align: center;
      margin-left: 180px;
       margin-right: 180px;
-      font-size:32%;
+      font-size:150%;
 }
 
 .text-big {
