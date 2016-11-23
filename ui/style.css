@@ -8,6 +8,12 @@ body {
 
 .center {
     text-align: center;
+    font-family: Charlatan DEMO;
+    color:#15ebaa;
+}
+.f1 {
+    font-family:Coalpen;
+     text-align: center;
 }
 
 .text-big {
