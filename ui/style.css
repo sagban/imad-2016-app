@@ -95,6 +95,7 @@ div.desc {
     position: relative;
     display: inline-block;
 }
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -103,9 +104,6 @@ div.desc {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
-}
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
@@ -118,3 +116,5 @@ div.desc {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+
