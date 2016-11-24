@@ -94,3 +94,7 @@ div.desc {
     background-color: #27c0c2; 
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
