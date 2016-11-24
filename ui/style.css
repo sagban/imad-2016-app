@@ -64,14 +64,16 @@ div.desc {
     text-align: center;
 }
 .button {
-   background-color: #BCF165;
+   background-color: #71F0B4;
    border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 42px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
+    margin-left: 180px;
+      margin-right: 180px;
 
 }
 .button:hover {
