@@ -66,9 +66,8 @@ div.desc {
 }
 .button {
    background-color: #329BF2;
-   border: none;
     color: white;
-    padding: 16px 38px;
+    padding: 8px 28px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -77,6 +76,7 @@ div.desc {
 .button:hover {
     background-color: #27c0c2;
     color: #BCF165;
+    border: color #2B88CC;
 }
 .button1 {
     border: none;
