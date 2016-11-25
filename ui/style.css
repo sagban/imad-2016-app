@@ -1,6 +1,9 @@
 body {
     font-family: "Goudy Bookletter 1911", sans-serif;
-    background-color: #70BADE;
+    background-color: #A6A7A7;
+    margin-left:1px;
+    margin-right:1px;
+    margin-top:1px;
 }
 
 .center {
@@ -62,7 +65,7 @@ div.desc {
     text-align: center;
 }
 .button {
-   background-color: #89B9D3;
+   background-color: #329BF2;
    border: none;
     color: white;
     padding: 16px 38px;
